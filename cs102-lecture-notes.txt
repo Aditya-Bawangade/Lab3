@@ -1,0 +1,5 @@
+git push : Pushes the changes to the github repository
+git pull : Pulls the changes from the local repository to the local repository
+git commit : Commits the changes to the repository
+git status : Shows the status of the repository mentioning the tracked and untracked files
+git clone <repository address> : Clones the mentioned repository to our local pc
