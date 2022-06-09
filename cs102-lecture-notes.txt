@@ -3,3 +3,5 @@ git pull : Pulls the changes from the local repository to the local repository
 git commit : Commits the changes to the repository
 git status : Shows the status of the repository mentioning the tracked and untracked files
 git clone <repository address> : Clones the mentioned repository to our local pc
+ 100 words:
+We learnt about the ease with which we can create a website using the markdown language. However we are limited with only a simple format of website. We can't add background color or any other fancy details using markdown. This is where HTML plays an important role, we can design the webpage according to our neccessites!
